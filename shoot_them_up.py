@@ -1,6 +1,11 @@
 #Shoot them up GAME
-#Frozen Jam by tgfcoder <https://twitter.com/tgfcoder> licensed under CC-BY-3
-#Art from Kenney.nl
+
+#Author: Mohammed Saleeq Kolleth
+
+#Music:Frozen Jam by tgfcoder <https://twitter.com/tgfcoder> licensed under CC-BY-3
+
+#Art: from Kenney.nl
+
 import pygame
 import random
 from os import path 
