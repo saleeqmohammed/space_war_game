@@ -1,6 +1,6 @@
 # SPACE WAR 🚀
 ![](dist/space_art-1.png)
-"SPACE WAR is my modern reimagining of the classic shoot 'em up (shmup) genre, built with Pygame. Featuring enhanced graphics and immersive sound effects, it delivers an adrenaline-pumping, keyboard-busting experience. This game pays homage to the genre's origins, inspired by Spacewar!—one of the earliest computer games, created in 1962."
+"SPACE WAR" is my modern reimagining of the classic shoot 'em up (shmup) genre, built with Pygame. Featuring enhanced graphics and immersive sound effects, it delivers an adrenaline-pumping, keyboard-busting experience. This game pays homage to the genre's origins, inspired by Spacewar!—one of the earliest computer games, created in 1962.
 
 ## Gameplay
 ![gameplay](dist/gameplay.gif)
